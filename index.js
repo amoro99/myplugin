@@ -5,7 +5,7 @@ module.exports.config = function (plugin, opts, next) {
         config:{
             auth: false,
             handler: function (req, reply) {
-                reply('heyro');
+                reply('heyro woild');
             }
         }
 
