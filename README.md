@@ -1,0 +1,1 @@
+nodemon --debug ../i5/server.js --plugin .
